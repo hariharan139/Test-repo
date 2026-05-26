@@ -1,5 +1,3 @@
-Welcome to git-master
-
-Yo, JSM here
+Hello git
 
 i'm adding this from , 'feature_branch'
