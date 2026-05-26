@@ -1,5 +1,3 @@
-Welcome to Git.
-
-This is coming from `dev-hari`
+Hello git
 
 i'm adding this from , 'feature_branch'
